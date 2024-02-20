@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/Unic/Laba_1/build",
+  "command": "E:\\MinGw\\bin\\g++.exe  @CMakeFiles/enter.dir/includes_CXX.rsp -g -o CMakeFiles\\enter.dir\\libraries\\enter.cpp.obj -c E:\\Unic\\Laba_1\\libraries\\enter.cpp",
+  "file": "E:/Unic/Laba_1/libraries/enter.cpp",
+  "output": "CMakeFiles/enter.dir/libraries/enter.cpp.obj"
+},
+{
+  "directory": "E:/Unic/Laba_1/build",
+  "command": "E:\\MinGw\\bin\\g++.exe  @CMakeFiles/gauss.dir/includes_CXX.rsp -g -o CMakeFiles\\gauss.dir\\libraries\\gauss.cpp.obj -c E:\\Unic\\Laba_1\\libraries\\gauss.cpp",
+  "file": "E:/Unic/Laba_1/libraries/gauss.cpp",
+  "output": "CMakeFiles/gauss.dir/libraries/gauss.cpp.obj"
+},
+{
+  "directory": "E:/Unic/Laba_1/build",
+  "command": "E:\\MinGw\\bin\\g++.exe  @CMakeFiles/matrix.dir/includes_CXX.rsp -g -o CMakeFiles\\matrix.dir\\libraries\\matrix.cpp.obj -c E:\\Unic\\Laba_1\\libraries\\matrix.cpp",
+  "file": "E:/Unic/Laba_1/libraries/matrix.cpp",
+  "output": "CMakeFiles/matrix.dir/libraries/matrix.cpp.obj"
+},
+{
+  "directory": "E:/Unic/Laba_1/build",
+  "command": "E:\\MinGw\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c E:\\Unic\\Laba_1\\main.cpp",
+  "file": "E:/Unic/Laba_1/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

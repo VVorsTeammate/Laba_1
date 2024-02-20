@@ -1,0 +1,2 @@
+E:\MinGw\bin\ar.exe qc libenter.a CMakeFiles/enter.dir/libraries/enter.cpp.obj
+E:\MinGw\bin\ranlib.exe libenter.a

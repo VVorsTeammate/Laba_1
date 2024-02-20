@@ -1,0 +1,14 @@
+int find_boss(int i,double** array, int size);
+void edinenie(double** array, int size);
+void f0(double* array, int size);
+void f0123(int* array, int size);
+void f0123_d(double* array, int size);
+void obnul(double** array, int size);
+void obnul_1(double* array, int size);
+double** Matrix_generation(int size);
+void show_pogr(double* pogreshn, double* Korni_x, int size);
+void Show_system(double** array, double* b, int size);
+void show_x(double* Korni_x, int size);
+void copy_2(double** matrix_A, double** matrix_Const_A, int* boss, int size);
+void copy_1(double* vector_b, double* vector_const_b, int size);
+void del(double** matrix, int size);

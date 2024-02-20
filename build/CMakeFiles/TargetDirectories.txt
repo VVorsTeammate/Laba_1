@@ -1,0 +1,6 @@
+E:/Unic/Laba_1/build/CMakeFiles/enter.dir
+E:/Unic/Laba_1/build/CMakeFiles/gauss.dir
+E:/Unic/Laba_1/build/CMakeFiles/matrix.dir
+E:/Unic/Laba_1/build/CMakeFiles/main.dir
+E:/Unic/Laba_1/build/CMakeFiles/edit_cache.dir
+E:/Unic/Laba_1/build/CMakeFiles/rebuild_cache.dir

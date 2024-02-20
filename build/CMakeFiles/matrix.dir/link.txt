@@ -1,0 +1,2 @@
+E:\MinGw\bin\ar.exe qc libmatrix.a CMakeFiles/matrix.dir/libraries/matrix.cpp.obj
+E:\MinGw\bin\ranlib.exe libmatrix.a

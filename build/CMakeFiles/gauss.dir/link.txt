@@ -1,0 +1,2 @@
+E:\MinGw\bin\ar.exe qc libgauss.a CMakeFiles/gauss.dir/libraries/gauss.cpp.obj
+E:\MinGw\bin\ranlib.exe libgauss.a
